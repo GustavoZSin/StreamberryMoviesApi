@@ -74,7 +74,7 @@ namespace StreamberryMoviesApi.Controllers
         /// <returns>IActionResult</returns>
         /// <response code="404">If the user with the specified ID is not found.</response>
         /// <response code="200">Returns the requested user.</response>
-        [HttpGet("GetById")]
+        [HttpGet("GetById/{id}")]
         public IActionResult GetUserById(string id)
         {
             var user = _userManager.Users.FirstOrDefault(us => us.Id == id);
