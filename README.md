@@ -1,4 +1,4 @@
-﻿![Thumbnail GitHub](E:\Desenvolvimento\Projetos\StreamberryMoviesApi\Img\StreamBerryBanner.png)
+﻿![Thumbnail GitHub](https://github.com/GustavoZSin/StreamberryMoviesApi/blob/master/Img/StreamBerryBanner.png)
 
 ## StreamBerry API
 
