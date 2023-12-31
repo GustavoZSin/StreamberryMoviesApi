@@ -68,7 +68,6 @@ All this operations are GETs and inform determinated informations:
 
 #### Validates JWT token
 - Each JWT token generated has 10 minutes of validity. After that, you need to generate a new token.
-- `Endpoint`: `https://localhost:7287/access`
 
 ---
 
